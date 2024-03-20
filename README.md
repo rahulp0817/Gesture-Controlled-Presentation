@@ -4,16 +4,6 @@ Experience seamless control over your PowerPoint presentations with our innovati
 
 ![Working Diagram](./Images/working%20hand.jpg)
 
-# Slides Controlling
-![Hand gestures](./Images/handg.jpg)
-
-for moving slides to previous
-
-![Hand gestures](./Images/pptg.jpg)
-
-for moving the slides to next
-
-
 # Requirements
 
 Mediapipe:
@@ -30,4 +20,16 @@ opencv:
 
 aspose:
 `pip install aspose-slides`
+
+# Slides Controlling
+![Hand gestures](./Images/handg.jpg)
+
+for moving slides to previous
+
+![Hand gestures](./Images/pptg.jpg)
+
+for moving the slides to next
+
+
+
 
