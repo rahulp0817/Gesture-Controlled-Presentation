@@ -16,18 +16,18 @@ for moving the slides to next
 
 # Requirements
 
-Mediapipe
-pip install mediapipe
+Mediapipe:
+`pip install mediapipe`
 
-cvzone
-pip install cvzone
+cvzone:
+`pip install cvzone`
 
-win32com
-pip install pywin32
+win32com:
+`pip install pywin32`
 
-opencv
-pip install opencv-python
+opencv:
+`pip install opencv-python`
 
-aspose
-pip install aspose-slides
+aspose:
+`pip install aspose-slides`
 
